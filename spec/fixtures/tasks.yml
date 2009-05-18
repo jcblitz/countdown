@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  release_id: 1
+  title: MyString
+  description: MyText
+  directions: MyText
+  assets: MyText
+  execute_at: 2009-05-17 22:16:49
+  completed_at: 2009-05-17 22:16:49
+  owner: MyString
+  depends_on: 1
+  completion_state: 1
+
+two:
+  release_id: 1
+  title: MyString
+  description: MyText
+  directions: MyText
+  assets: MyText
+  execute_at: 2009-05-17 22:16:49
+  completed_at: 2009-05-17 22:16:49
+  owner: MyString
+  depends_on: 1
+  completion_state: 1
